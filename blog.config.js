@@ -2,7 +2,7 @@ const BLOG = {
   title: '艾默生的小屋',
   author: 'Emerson Chan',
   email: 'yonichanem@outlook.com',
-  link: 'https://ecsblog.vercel.app',
+  link: 'https://www.emechan.xyz',
   description: '看起来似乎是个有趣的地方',
   lang: 'zh-CN', // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES']
   appearance: 'auto', // ['light', 'dark', 'auto'],
